@@ -1,2 +1,2 @@
 # portfolio
-A collection of technical, academic, and other professional writing projects from 2007 through the present.
+A collection of coding projects and professional writing projects from 2007 through the present.
